@@ -1,1 +1,2 @@
-Work
+<?php
+echo "Good";
