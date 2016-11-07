@@ -1,6 +1,6 @@
 <?php
-<<<<<<< HEAD
 echo "Good";
+echo "12";
 echo "123";
-=======
->>>>>>> origin/master
+echo "1234";
+
