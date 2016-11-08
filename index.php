@@ -7,5 +7,9 @@ echo "1235";
 echo "123555555";
 echo "000";
 echo "002";
+echo "Привет";
+echo "1234";
+<<<<<<< HEAD
 
-echo "Привет2";
+=======
+>>>>>>> origin/master
