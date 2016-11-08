@@ -9,4 +9,7 @@ echo "000";
 echo "002";
 echo "Привет";
 echo "1234";
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
